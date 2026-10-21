@@ -19,7 +19,7 @@ This repository will showcase professional writing samples, resume resources, an
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/badejoko-david-5395573b7
-- Website: [https://writers.ng](https://badejokodavid.netlify.app/
+- Website: (https://badejokodavid.netlify.app/
 
 
 ## Let's Connect
