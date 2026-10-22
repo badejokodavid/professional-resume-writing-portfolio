@@ -25,3 +25,6 @@ This repository will showcase professional writing samples, resume resources, an
 ## Let's Connect
 
 I welcome connections with job seekers, professionals, recruiters, and organizations focused on career development.
+## Portfolio Samples
+
+- [View Sample Resume Project](sample-resume-project.md) — A fictional administrative assistant case study demonstrating my resume-writing approach.
